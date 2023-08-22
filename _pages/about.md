@@ -2,25 +2,45 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Ph.D. student at the Department of Computer Science and Technology, Tsinghua University.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.png
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  show_social: false
+  # address: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+&emsp; <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope"></i></a> lixiao20@mails.tsinghua.edu.cn \
+&emsp; <a href="https://scholar.google.com/citations?user=Is24dqwAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a> [Google Scholar](https://scholar.google.com/citations?user=Is24dqwAAAAJ)
+&emsp; <a href="https://github.com/LixiaoTHU" title="GitHub"><i class="fab fa-github"></i></a> [Github](https://github.com/LixiaoTHU) 
+
+Affiliation:\
+&emsp;[Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/),\
+&emsp;[State Key Laboratory of Intelligent Technology and Systems (CSAI)](http://www.csai.tsinghua.edu.cn/),\
+&emsp;[Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing 100084, China;\
+&emsp;[Tsinghua Laboratory of Brain and Intelligence (THBI)](https://brain.tsinghua.edu.cn/);\
+&emsp;[IDG/McGovern Institute for Brain Research at Tsinghua](http://mcgovern.life.tsinghua.edu.cn/en).
+
+
+
+
+<hr />
+
+I am a Ph.D. student at the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) in [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Xiaolin Hu](http://xlhu.cn/) and [Prof. Bo Zhang](https://www.cs.tsinghua.edu.cn/csen/info/1059/4006.htm). I am a member of [TSAIL Group](https://ml.cs.tsinghua.edu.cn/), which is directed by [Prof. Bo Zhang](https://www.cs.tsinghua.edu.cn/csen/info/1059/4006.htm) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). I received my Bachelor’s degree at Department of Computer Science and Technology from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2020. My current researches aim to build up reliable and trustworthy AI systems, hopefully bring Al closer to human-level intelligence. With this goal, I have explored topics including adversarial machine learning, representation learning, brain-inspired learning and scalable multi-modality learning. I am also interested in the privacy of deep learning system.
+
+
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
