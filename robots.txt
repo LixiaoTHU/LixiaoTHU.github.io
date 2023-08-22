@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://LixiaoTHU.github.io/sitemap.xml
+Sitemap: https://LixiaoTHU.github.io/test/sitemap.xml
