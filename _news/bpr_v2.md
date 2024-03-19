@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted to **IJCV 2022**, which is an extended version of the BPR paper.
+One paper is accepted by **IJCV 2022**, which is an extended version of the BPR paper.
