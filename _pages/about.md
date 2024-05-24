@@ -20,9 +20,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-&emsp; <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope"></i></a> lixiao20@mails.tsinghua.edu.cn \
+&emsp; <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope"></i></a> lixiao20@mails.tsinghua.edu.cn; xiaoli.cst@gmail.com \
 &emsp; <a href="https://scholar.google.com/citations?user=Is24dqwAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a> [Google Scholar](https://scholar.google.com/citations?user=Is24dqwAAAAJ)
 &emsp; <a href="https://github.com/LixiaoTHU" title="GitHub"><i class="fab fa-github"></i></a> [Github](https://github.com/LixiaoTHU) 
+
+&emsp; <span style="color: red;">I am looking for a full-time position in industry or academia. Feel free to reach out to me!</span>
 
 Affiliation:\
 &emsp;[Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/),\
@@ -36,7 +38,9 @@ Affiliation:\
 
 <hr />
 
-I am a Ph.D. student at the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) in [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Xiaolin Hu](http://xlhu.cn/) and [Prof. Bo Zhang](https://www.cs.tsinghua.edu.cn/csen/info/1059/4006.htm). I am a member of [TSAIL Group](https://ml.cs.tsinghua.edu.cn/), which is directed by [Prof. Bo Zhang](https://www.cs.tsinghua.edu.cn/csen/info/1059/4006.htm) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). I received my Bachelor’s degree at Department of Computer Science and Technology from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2020. My research interests lie at the intersection of computer vision (CV) and machine learning (ML), with the goal of developing trustworthy multimodal computer vision systems that can achieve human‐level visual understanding and out-of-distribution (OOD) generalization. With this goal, I have explored the following areas:
+I am a Ph.D. student at the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) in [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Xiaolin Hu](http://xlhu.cn/) and [Prof. Bo Zhang](https://www.cs.tsinghua.edu.cn/csen/info/1059/4006.htm). I am a member of [TSAIL Group](https://ml.cs.tsinghua.edu.cn/), which is directed by [Prof. Bo Zhang](https://www.cs.tsinghua.edu.cn/csen/info/1059/4006.htm) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). I received my Bachelor’s degree at Department of Computer Science and Technology from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2020. 
+
+My research interests lie at the intersection of computer vision (CV) and machine learning (ML), with the goal of developing trustworthy multimodal computer vision systems that can achieve human‐level visual understanding and out-of-distribution (OOD) generalization. I have explored the following areas:
 
 <li> <b>Classical CV applications</b>: Improving the accuracy and robustness of general object detection, instance segmentation, and other tasks. </li>
 
@@ -47,7 +51,6 @@ I am a Ph.D. student at the [Department of Computer Science and Technology](http
 <li> <b>Large language models</b>: Investigating potential security risks of large language models, establishing efficient jailbreak attacks and defense methods for large language models. </li>
 
 <li> <b>Trustworthy machine learning</b>: Exploring frontier problems such as federated learning, adversarial ML, and ML privacy. </li>
-
 
 
 <!-- My current researches aim to build up reliable and trustworthy AI systems, hopefully bring Al closer to human-level intelligence. With this goal, I have explored topics including adversarial machine learning, representation learning, brain-inspired learning and scalable multimodality learning. I am also interested in the privacy of deep learning system. -->
