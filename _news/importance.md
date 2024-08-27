@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper on how to improving robustness of object detectors with upstream adversarial pre-training is available on arXiv.
+One paper on how to improving robustness of object detectors with upstream adversarial pre-training is available on arXiv. [Read more](https://arxiv.org/abs/2305.17438)

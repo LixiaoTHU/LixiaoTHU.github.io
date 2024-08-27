@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We released the PartImageNet++ dataset and further improved the part-based recogntion models. The paper has been accepted by **ECCV 2024**.
+We released the PartImageNet++ dataset and further improved the part-based recogntion models. The paper has been accepted by **ECCV 2024**. [Read more](https://arxiv.org/abs/2407.10918)

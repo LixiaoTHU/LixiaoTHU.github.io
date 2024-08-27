@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper on the relation between adversarial robustness and privacy is accepted by **IEEE TIFS 2024**. 
+One paper on the relation between adversarial robustness and privacy is accepted by **IEEE TIFS 2024**. [Read more](https://ieeexplore.ieee.org/abstract/document/10478637/)
