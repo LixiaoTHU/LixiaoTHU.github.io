@@ -54,7 +54,7 @@ My research interests lie at the intersection of computer vision (CV), natural l
 
 <li> <b>Trustworthy machine learning</b>: Exploring frontier problems such as federated learning, adversarial ML, and ML privacy. </li>
 <br>
-Previously, I interned at [01.ai](https://www.01.ai/). I am currently interning at Bytedance [Seed](https://team.doubao.com/en/topseed), focusing on the development of cutting-edge multimodal and reasoning [foundation models](https://team.doubao.com/en/special/doubao_1_5_pro).
+Previously, I interned at [01.ai](https://www.01.ai/). I am currently working at Bytedance [Seed](https://team.doubao.com/en/topseed), focusing on the development of cutting-edge multimodal and reasoning [foundation models](https://team.doubao.com/en/special/doubao_1_5_pro).
 
 
 <!-- My current researches aim to build up reliable and trustworthy AI systems, hopefully bring Al closer to human-level intelligence. With this goal, I have explored topics including adversarial machine learning, representation learning, brain-inspired learning and scalable multimodality learning. I am also interested in the privacy of deep learning system. -->
