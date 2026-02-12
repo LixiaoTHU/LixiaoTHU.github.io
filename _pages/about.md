@@ -40,9 +40,13 @@ Affiliation:\
 
 <hr />
 
-I am a final-year Ph.D. student at the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) in [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Xiaolin Hu](http://xlhu.cn/) and [Prof. Bo Zhang](https://www.cs.tsinghua.edu.cn/csen/info/1059/4006.htm). I am a member of [TSAIL Group](https://ml.cs.tsinghua.edu.cn/), which is directed by [Prof. Bo Zhang](https://www.cs.tsinghua.edu.cn/csen/info/1059/4006.htm) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). I received my Bachelor’s degree at Department of Computer Science and Technology from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2020. 
+I am a core member of the [Bytedance Seed](https://team.doubao.com/en/topseed) team, where I work on the development of cutting-edge multimodal and reasoning foundation models. I played a key role in the construction of the Seed 1.6-2.0 series models.
 
-My research interests lie at the intersection of computer vision (CV), natural language processsing (NLP), and machine learning (ML), with the goal of developing trustworthy multimodal systems that can achieve human‐level visual understanding and out-of-distribution (OOD) generalization. I have explored the following areas:
+I received my Ph.D. degree from the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Xiaolin Hu](http://xlhu.cn/) and [Prof. Bo Zhang](https://www.cs.tsinghua.edu.cn/csen/info/1059/4006.htm). Prior to that, I obtained my Bachelor’s degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2020.
+
+My research interests lie at the intersection of computer vision (CV), natural language processing (NLP), and machine learning (ML), with the goal of developing trustworthy multimodal systems that can achieve human‐level visual understanding and out-of-distribution (OOD) generalization. I have explored the following areas:
+
+<li> <b>Multimodal Foundation Models</b>: Developing and optimizing large-scale multimodal models (e.g., Seed series) for better reasoning and understanding capabilities. </li>
 
 <li> <b>Classical CV applications</b>: Improving the accuracy and robustness of general object detection, instance segmentation, and other tasks. </li>
 
@@ -53,8 +57,7 @@ My research interests lie at the intersection of computer vision (CV), natural l
 <li> <b>Large language models</b>: Investigating potential security risks of large language models, establishing efficient jailbreak attacks and defense methods for large language models. </li>
 
 <li> <b>Trustworthy machine learning</b>: Exploring frontier problems such as federated learning, adversarial ML, and ML privacy. </li>
-<br>
-Previously, I interned at [01.ai](https://www.01.ai/). I am currently working at Bytedance [Seed](https://team.doubao.com/en/topseed), focusing on the development of cutting-edge multimodal and reasoning [foundation models](https://team.doubao.com/en/special/doubao_1_5_pro).
+
 
 
 <!-- My current researches aim to build up reliable and trustworthy AI systems, hopefully bring Al closer to human-level intelligence. With this goal, I have explored topics including adversarial machine learning, representation learning, brain-inspired learning and scalable multimodality learning. I am also interested in the privacy of deep learning system. -->
