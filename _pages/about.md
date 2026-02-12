@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. student at the Department of Computer Science and Technology, Tsinghua University.
+subtitle: Core Member of the Bytedance Seed Team. Ph.D. from Tsinghua University.
 
 profile:
   align: right
