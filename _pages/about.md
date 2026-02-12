@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Bytedance, Seed
-subtitle2: Member of TopSeed Talent Program
+subtitle: ByteDance Seed Team
+subtitle2: Member of <a href="https://seed.bytedance.com/en/topseed">TopSeed</a> Talent Program
 
 profile:
   align: right
@@ -40,7 +40,7 @@ social: false  # includes social icons at the bottom of the page
 
 <hr />
 
-I am a researcher at [ByteDance Seed](https://seed.bytedance.com/en/), as a member of [TopSeed](https://team.doubao.com/en/topseed) Program, working with [Ke Shen](https://openreview.net/profile?id=~Ke_Shen2) since 2024. I received my Ph.D. in 2025 from the Department of Computer Science and Technology at Tsinghua University (THU). I was a member of [TSAIL Group](http://ml.cs.tsinghua.edu.cn/index.html), led by [Prof. Bo Zhang](https://www.cs.tsinghua.edu.cn/csen/info/1059/4006.htm) and [Prof. Jun Zhu](http://xlhu.cn/), where I worked closely with [Prof. Xiaolin Hu](http://xlhu.cn/) and [Prof. Bo Zhang](https://www.cs.tsinghua.edu.cn/csen/info/1059/4006.htm). I obtained my Bachelor's degree from Tsinghua University.
+I am a researcher at [ByteDance Seed](https://seed.bytedance.com/en/), as a member of TopSeed Program, working with [Ke Shen](https://openreview.net/profile?id=~Ke_Shen2) since 2024. I received my Ph.D. in 2025 from the Department of Computer Science and Technology at Tsinghua University (THU). I was a member of [TSAIL Group](http://ml.cs.tsinghua.edu.cn/index.html), led by [Prof. Bo Zhang](https://www.cs.tsinghua.edu.cn/csen/info/1059/4006.htm) and [Prof. Jun Zhu](http://xlhu.cn/), where I worked closely with [Prof. Xiaolin Hu](http://xlhu.cn/) and [Prof. Bo Zhang](https://www.cs.tsinghua.edu.cn/csen/info/1059/4006.htm). I obtained my Bachelor's degree from Tsinghua University.
 
 
 
