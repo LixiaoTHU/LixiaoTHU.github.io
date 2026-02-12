@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Core Member of the Bytedance Seed Team. Ph.D. from Tsinghua University.
+subtitle: Bytedance, Seed
+subtitle2: Member of TopSeed Talent Program
 
 profile:
   align: right
@@ -21,30 +22,57 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 &emsp; <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope"></i></a> xiaoli.cst@gmail.com \
-&emsp; <a href="https://scholar.google.com/citations?user=Is24dqwAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a> [Google Scholar](https://scholar.google.com/citations?user=Is24dqwAAAAJ)
-&emsp; 
+&emsp; <a href="https://scholar.google.com/citations?user=Is24dqwAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a> [Google Scholar](https://scholar.google.com/citations?user=Is24dqwAAAAJ) \
+&emsp; Dinghao Building, Tower B, Beijing, China
 <!-- <a href="https://github.com/LixiaoTHU" title="GitHub"><i class="fab fa-github"></i></a> [Github](https://github.com/LixiaoTHU)  -->
 
-&emsp; <span style="color: red;">I am open to discussions and collaborations if you're interested in my work!</span>
 
-Affiliation:\
+<span style="color: red;">**NOTE**: Our team ([Seed LLM](https://seed.bytedance.com/zh/direction/llm)) is hiring interns and full-time researchers. If you are interested in LLM pretraining/reasoning/agent, feel free to contact me!</span>
+<br><br>
+
+<!-- Affiliation:\
 &emsp;[Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/),\
 &emsp;[State Key Laboratory of Intelligent Technology and Systems (CSAI)](http://www.csai.tsinghua.edu.cn/),\
-&emsp;[Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing 100084, China;\
-&emsp;[Tsinghua Laboratory of Brain and Intelligence (THBI)](https://brain.tsinghua.edu.cn/);\
-<!-- &emsp; -->
-<!-- &emsp;[IDG/McGovern Institute for Brain Research at Tsinghua](http://mcgovern.life.tsinghua.edu.cn/en). -->
+&emsp;[Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing 100084, China; -->
 
 
 
 
 <hr />
 
-I am a core member of the [Bytedance Seed](https://team.doubao.com/en/topseed) team, where I work on the development of cutting-edge multimodal and reasoning foundation models. I played a key role in the construction of the Seed 1.6-2.0 series models.
+I am a researcher at [ByteDance Seed](https://seed.bytedance.com/en/), as a member of [TopSeed](https://team.doubao.com/en/topseed) Program, working with [Ke Shen](https://openreview.net/profile?id=~Ke_Shen2) since 2024. I received my Ph.D. in 2025 from the Department of Computer Science and Technology at Tsinghua University (THU). I was a member of [TSAIL Group](http://ml.cs.tsinghua.edu.cn/index.html), led by [Prof. Bo Zhang](https://www.cs.tsinghua.edu.cn/csen/info/1059/4006.htm) and [Prof. Jun Zhu](http://xlhu.cn/), where I worked closely with [Prof. Xiaolin Hu](http://xlhu.cn/) and [Prof. Bo Zhang](https://www.cs.tsinghua.edu.cn/csen/info/1059/4006.htm). I obtained my Bachelor's degree from Tsinghua University.
 
-I received my Ph.D. degree from the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Xiaolin Hu](http://xlhu.cn/) and [Prof. Bo Zhang](https://www.cs.tsinghua.edu.cn/csen/info/1059/4006.htm). Prior to that, I obtained my Bachelor’s degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2020.
 
-My research interests lie at the intersection of computer vision (CV), natural language processing (NLP), and machine learning (ML), with the goal of developing trustworthy multimodal systems that can achieve human‐level visual understanding and out-of-distribution (OOD) generalization. I have explored the following areas:
+
+My long-term goal is to build **scalable**, **robust**, and **generalizable** autonomous agents that operate reliably in the real world and fundamentally relieve humans from tedious labor. In the near term, I focus on building world-class multimodal foundation models that create real economic value and measurably improve productivity (**not** models optimized merely for **leaderboard performance**). I believe accelerating progress toward this goal requires rethinking the current paradigm along these directions:
+
+<ul>
+<li> <b>End-to-end system optimization</b>: Re-examining pretraining, post-training, and evaluation from a unified perspective, jointly optimizing for scalability and generalization rather than treating stages independently. </li>
+
+<li> <b>Predictable scaling ladders</b>: Developing principled, systematic scaling strategies to accelerate model iteration while improving reliability and reducing empirical trial-and-error. </li>
+
+<li> <b>Diving deeper</b>: Exploring new training paradigms (objectives, optimizers, data strategies, etc) that better leverage pretraining data, RL signals, and human supervision while enabling continuous knowledge acquisition. </li>
+</ul>
+
+**Current Work & Progress**
+
+<ul>
+<li><strong>Core contributor</strong> to the development of flagship foundation models (<a href="https://seed.bytedance.com/en/seed1_6">Seed 1.6</a>, <a href="https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf">Seed 1.8</a>, and the upcoming <a href="https://seed.bytedance.com/en">Seed 2.0</a>) as well as open-source models (<a href="https://github.com/ByteDance-Seed/seed-oss">Seed-OSS</a>). </li>
+
+
+<li> Research on the emergence and enhancement of reasoning patterns in pretrained models and end-to-end strategies to extend their capability ceilings (Some findings are temporarily confidential due to company policy).   </li>
+</ul>
+
+**Current Interns**
+
+[Huanran Chen](https://huanranchen.github.io/) (Tsinghua University, LLM pretraining dynamics)
+
+
+
+
+
+
+<!-- My research interests lie at the intersection of computer vision (CV), natural language processing (NLP), and machine learning (ML), with the goal of developing trustworthy multimodal systems that can achieve human‐level visual understanding and out-of-distribution (OOD) generalization. I have explored the following areas:
 
 <li> <b>Multimodal Foundation Models</b>: Developing and optimizing large-scale multimodal models (e.g., Seed series) for better reasoning and understanding capabilities. </li>
 
@@ -56,7 +84,7 @@ My research interests lie at the intersection of computer vision (CV), natural l
 
 <li> <b>Large language models</b>: Investigating potential security risks of large language models, establishing efficient jailbreak attacks and defense methods for large language models. </li>
 
-<li> <b>Trustworthy machine learning</b>: Exploring frontier problems such as federated learning, adversarial ML, and ML privacy. </li>
+<li> <b>Trustworthy machine learning</b>: Exploring frontier problems such as federated learning, adversarial ML, and ML privacy. </li> -->
 
 
 
