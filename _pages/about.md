@@ -27,7 +27,7 @@ social: false  # includes social icons at the bottom of the page
 <!-- <a href="https://github.com/LixiaoTHU" title="GitHub"><i class="fab fa-github"></i></a> [Github](https://github.com/LixiaoTHU)  -->
 
 
-<span style="color: red;">**NOTE**: Our team ([Seed LLM](https://seed.bytedance.com/zh/direction/llm)) is hiring interns and full-time researchers. If you are interested in LLM pretraining/reasoning/agent, feel free to contact me!</span>
+<span style="color: red;"><b>NOTE</b>: Our team ([Seed LLM](https://seed.bytedance.com/zh/direction/llm)) is hiring interns and full-time researchers. If you are interested in LLM pretraining/reasoning/agent, feel free to contact me!</span>
 <br><br>
 
 <!-- Affiliation:\
