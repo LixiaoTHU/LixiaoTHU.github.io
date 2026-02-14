@@ -57,7 +57,7 @@ My long-term goal is to build **scalable**, **robust**, and **generalizable** au
 **Current Work & Progress**
 
 <ul>
-<li><strong>Core contributor</strong> to the development of flagship foundation models (<a href="https://seed.bytedance.com/en/seed1_6">Seed 1.6</a>, <a href="https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf">Seed 1.8</a>, and the upcoming <a href="https://seed.bytedance.com/en">Seed 2.0</a>) as well as open-source models (<a href="https://github.com/ByteDance-Seed/seed-oss">Seed-OSS</a>). </li>
+<li><strong>Core contributor</strong> to the development of flagship foundation models (<a href="https://seed.bytedance.com/en/seed1_6">Seed 1.6</a>, <a href="https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf">Seed 1.8</a>, and <a href="https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2/0214/Seed2.0%20Model%20Card.pdf">Seed 2.0</a>) as well as open-source models (<a href="https://github.com/ByteDance-Seed/seed-oss">Seed-OSS</a>). </li>
 
 
 <li> Research on the emergence and enhancement of reasoning patterns in pretrained models and end-to-end strategies to extend their capability ceilings (Some findings are temporarily confidential due to company policy).   </li>
