@@ -67,6 +67,13 @@ My long-term goal is to build **scalable**, **robust**, and **generalizable** au
 
 [Huanran Chen](https://huanranchen.github.io/) (Tsinghua University, LLM pretraining dynamics)
 
+**Previous Experiences**
+<ul>
+
+<li>2024.6 - 2024.9, <a href="https://www.lingyiwanwu.com/">01.AI</a>, VLM Pretraining Group</li>
+<li>2023.5 - 2024.4, Huawei 2012 Lab, Foundation Model Research Group</li>
+</ul>
+
 
 
 
