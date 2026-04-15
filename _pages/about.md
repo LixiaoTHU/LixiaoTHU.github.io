@@ -44,14 +44,14 @@ I am a researcher at [ByteDance Seed](https://seed.bytedance.com/en/), as a memb
 
 
 
-My long-term goal is to build **scalable**, **robust**, and **generalizable** autonomous agents that operate reliably in the real world and fundamentally relieve humans from tedious labor. In the near term, I focus on building world-class multimodal foundation models that create real economic value and measurably improve productivity (**not** models optimized merely for **leaderboard performance**). I believe accelerating progress toward this goal requires rethinking the current paradigm along these directions:
+My long-term goal is to build **scalable**, **robust**, and **generalizable** autonomous agents that operate reliably in both digital and real world and fundamentally relieve humans from tedious labor. In the near term, I focus on building world-class foundation models that create real economic value and measurably improve productivity (**not** models optimized merely for **leaderboard performance**). I believe accelerating progress toward this goal requires rethinking the current paradigm along these directions:
 
 <ul>
 <li> <b>End-to-end system optimization</b>: Re-examining pretraining, post-training, and evaluation from a unified perspective, jointly optimizing for scalability and generalization rather than treating stages independently. </li>
 
 <li> <b>Predictable scaling ladders</b>: Developing principled, systematic scaling strategies to accelerate model iteration while improving reliability and reducing empirical trial-and-error. </li>
 
-<li> <b>Diving deeper</b>: Exploring new training paradigms (objectives, optimizers, data strategies, etc) that better leverage pretraining data, RL signals, and human supervision while enabling continuous knowledge acquisition. </li>
+<li> <b>Diving deeper</b>: Exploring better training paradigms (objectives, optimizers, data strategies, etc) that fully leverage pretraining data, RL signals, and human supervision while enabling continuous knowledge and skill acquisition. </li>
 </ul>
 
 **Current Work & Progress**
@@ -60,7 +60,7 @@ My long-term goal is to build **scalable**, **robust**, and **generalizable** au
 <li><strong>Core contributor</strong> to the development of flagship foundation models (<a href="https://seed.bytedance.com/en/seed1_6">Seed 1.6</a>, <a href="https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf">Seed 1.8</a>, and the upcoming <a href="https://seed.bytedance.com/en">Seed 2.0</a>) as well as open-source models (<a href="https://github.com/ByteDance-Seed/seed-oss">Seed-OSS</a>). </li>
 
 
-<li> Research on the emergence and enhancement of <b>reasoning patterns</b> in pretrained models and end-to-end strategies to extend their capability <b>ceilings</b> (Some findings are temporarily confidential due to company policy).   </li>
+<li> Research on the emergence and enhancement of <b>reasoning patterns</b> in pretrained models and end-to-end strategies to extend their capability <b>ceilings</b>.   </li>
 </ul>
 
 **Current Interns**
